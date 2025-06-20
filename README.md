@@ -10,10 +10,10 @@ commission_calculator
 - Code should output a phrase stating the employee name and how much $$$ they'll get paid  
 
 text_analizer  
-- Asks user to input a parragraph  
+- Asks user to input a text  
 - Asks user to input 3 letters  
-- Code should output how many times the 3 inputed letter appear in the parragraph  
-- Code should output how many words are there in the parragraph  
-- Code should output what's the first and last letter of the parragraph  
-- Code should output the same parragraph reversed  
-- Code should output if the word "Python" appears in the parragraph  
+- Code should output how many times the 3 inputed letters appear in the text  
+- Code should output how many words are there in the text  
+- Code should output what's the first and last letter of the text  
+- Code should output the same text reversed (words)  
+- Code should output if the word "Python" appears in the text  
