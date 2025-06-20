@@ -1,0 +1,3 @@
+#Instructions: create a program that asks the user two questions of your choosing, then show in the console both answers as part of a text "The name of the beer is (Beer Name)", the beer name has to ho in between double quotations and in a second line of text
+
+print("The name of the beer is\n\"" + input("What's your favorite type of food (nationality)? ") + " " + input("What's your favorite animal? ") + "\"")
