@@ -17,6 +17,21 @@
       </list>
     </option>
   </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="GitHubPullRequestSearchHistory"><![CDATA[{
+  "lastFilter": {
+    "state": "OPEN",
+    "assignee": "AndresLG99"
+  }
+}]]></component>
+  <component name="GithubPullRequestsUISettings"><![CDATA[{
+  "selectedUrlAndAccountId": {
+    "url": "https://github.com/AndresLG99/Andres-Lopez-Projects.git",
+    "accountId": "31613c08-1595-4b65-bcc7-59809db1dbb1"
+  }
+}]]></component>
   <component name="ProjectColorInfo">{
   &quot;associatedIndex&quot;: 3
 }</component>
@@ -30,7 +45,10 @@
     "ModuleVcsDetector.initialDetectionPerformed": "true",
     "Python.BeerNameCreator.executor": "Run",
     "Python.Comission_Calculator.executor": "Run",
-    "RunOnceActivity.ShowReadmeOnStart": "true"
+    "Python.text_analizer.executor": "Run",
+    "RunOnceActivity.ShowReadmeOnStart": "true",
+    "RunOnceActivity.git.unshallow": "true",
+    "git-widget-placeholder": "feature"
   }
 }]]></component>
   <component name="SharedIndexes">
@@ -49,5 +67,16 @@
       <updated>1748760463383</updated>
     </task>
     <servers />
+  </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State />
+          </value>
+        </entry>
+      </map>
+    </option>
   </component>
 </project>
